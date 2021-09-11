@@ -1,2 +1,6 @@
 streamlit
 Image
+pandas
+requests
+json
+plotly
