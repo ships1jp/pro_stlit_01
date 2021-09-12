@@ -3,3 +3,5 @@ Image
 pandas
 requests
 plotly
+yfinance
+altair
